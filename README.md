@@ -1,4 +1,4 @@
-# 🎬 Netflix WatchTim Insights 📊
+# 🎬 Netflix WatchTime Insights 📊
 
 An interactive Power BI dashboard that analyzes simulated streaming behavior to uncover insights on user watch-time, binge sessions, genre popularity, and device usage patterns.
 
@@ -40,6 +40,7 @@ The dataset includes **500 records** with varied durations, genres, and user-dev
 | **Horizontal Bar** | Total Watch Time by Genre |
 | **Donut Chart** | Device Usage Distribution |
 | **Matrix Heatmap** | Avg. Watch Time by Genre & Day |
+| **Slicer** | Filter all the data by Genre |
 
 All visuals use a **Netflix-themed color palette** (red, black, white) for a cohesive and modern design.
 
