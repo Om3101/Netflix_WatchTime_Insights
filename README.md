@@ -59,7 +59,7 @@ All visuals use a **Netflix-themed color palette** (red, black, white) for a coh
 
 ## 🖼️ Preview
 
-![Dashboard Preview](./OTT_Dashboard.png)  
+![Dashboard Preview](./Insights_Dashboard.png)  
 
 ---
 
